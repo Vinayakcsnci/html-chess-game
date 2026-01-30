@@ -37,4 +37,4 @@ venv.bak/
 desktop.ini
 
 # Ignore parent directory files that got accidentally included
-../../../../../../**/*
+../../../../*
