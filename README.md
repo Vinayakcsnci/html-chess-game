@@ -29,7 +29,8 @@ An interactive HTML chess game with full gameplay functionality.
 
 ### Manual Sync
 ```bash
-./sync.sh
+./sync.sh       # Linux/Mac
+sync.bat        # Windows
 # or
 npm run sync
 ```
