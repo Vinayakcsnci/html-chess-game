@@ -9,6 +9,9 @@ An interactive HTML chess game with full gameplay functionality.
 - Turn-based gameplay
 - Legal move validation
 - Check and checkmate detection
+- Auto-sync to GitHub on every commit
+
+**Created by Vinayak**
 
 ## Setup
 
